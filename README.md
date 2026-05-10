@@ -184,3 +184,5 @@ See [docs/security-model.md](docs/security-model.md) for the full threat model.
 ## Author
 
 [Shola Emmanuel Fayinminu](https://sholaemmanuel.dev)
+
+- For contributions, corrections or suggestions reach out tme with the above link
