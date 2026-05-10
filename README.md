@@ -70,7 +70,7 @@ erc8004/
 
 ```bash
 git clone https://github.com/shola-devv/ERC-8004-Experimental.git
-cd erc8004
+cd ERC-8004-Experimental
 forge install OpenZeppelin/openzeppelin-contracts
 ```
 
