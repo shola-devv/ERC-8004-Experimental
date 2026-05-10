@@ -86,5 +86,5 @@ Reputation data feeds into an insurance pool where agents with high reputation c
 - [ ] zkML validator template
 - [ ] Formal invariant verification (Certora/Halmos)
 
-## Roadmap 
+## corrections/contribution/suggestions
 if you have suggstions reach out to me here [shola Emmanuel Fayinminu](https://sholaemmanuel.dev)
