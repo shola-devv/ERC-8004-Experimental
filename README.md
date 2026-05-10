@@ -57,6 +57,7 @@ erc8004/
 └── foundry.toml
 ```
 
+See [docs/architecture](docs/architecture) for full architecture.
 ---
 
 ## Getting Started
@@ -148,6 +149,7 @@ See [docs/security-model.md](docs/security-model.md) for the full threat model.
 - [ ] L2 deployment optimisation
 - [ ] Subgraph manifest
 
+See [docs/future-work](docs/future-work) for full roadmap.
 ---
 
 ## Related Standards
