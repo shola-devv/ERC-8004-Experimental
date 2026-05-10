@@ -1,7 +1,7 @@
 # ERC-8004: Trustless Agents — Experimental Implementation
 
-> ⚠️ **Status:** This is an experimental implementation and not an official Ethereum standard.
-> It is intended for research, prototyping, and community feedback. Not audited.use with caution in production.
+> ⚠️ **Status:** This is an experimental implementation.
+> It is intended for research, prototyping, and community feedback. Not audited. Do not use in production without a professional security review.
 
 An experimental Solidity implementation of [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004): a protocol for discovering, choosing, and interacting with autonomous AI agents across organisational boundaries without pre-existing trust.
 
