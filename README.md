@@ -69,7 +69,7 @@ erc8004/
 ### Install
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/shola-devv/ERC-8004-Experimental.git
 cd erc8004
 forge install OpenZeppelin/openzeppelin-contracts
 ```
@@ -125,23 +125,6 @@ A 0-index would be ambiguous with "no feedback" state. 1-based indexing means `g
 
 ---
 
-## Professionalism Rating
-
-| Dimension | Score | To improve |
-|---|---|---|
-| Spec faithfulness | ★★★★★ 9/10 | Full 3-registry impl + all events |
-| Interface separation | ★★★★★ 10/10 | Full `I*.sol` files with NatDoc |
-| Test coverage | ★★★★☆ 8/10 | Add invariant/stateful fuzz tests |
-| Documentation | ★★★★★ 9/10 | architecture + security + future-work |
-| Gas optimisation | ★★★☆☆ 7/10 | Tag comparison uses keccak in loops |
-| Upgradeability | ★★★☆☆ 6/10 | No proxy pattern yet |
-| Auditor-readiness | ★★★★☆ 8/10 | NatDoc throughout; no formal specs yet |
-
-**Overall: 8.1 / 10**
-
-To reach 10/10: add UUPS proxy pattern, Certora invariant specs, a subgraph manifest, and pagination for `readAllFeedback()`.
-
----
 
 ## Security
 
